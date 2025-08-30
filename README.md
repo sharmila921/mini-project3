@@ -9,7 +9,7 @@ A Streamlit web application that uses a Machine Learning model to predict employ
 <img width="1716" height="1125" alt="image" src="https://github.com/user-attachments/assets/a6f7b8eb-e442-4b72-880b-0ed38c62e612" />
 <img width="1110" height="827" alt="image" src="https://github.com/user-attachments/assets/0f634105-62b4-453d-9f82-ea61076cd425" />
 
-<img width="1364" height="627" alt="image" src="https://github.com/user-attachments/assets/1aa687fa-2e2a-4c29-a89d-2ffcd636d199" />
+
 <img width="1364" height="627" alt="image" src="https://github.com/user-attachments/assets/80399038-2bbd-42e2-a0bb-fb6e875cfb41" />
 
 <img width="1462" height="848" alt="image" src="https://github.com/user-attachments/assets/0d279a52-04dc-46a1-a923-6cce99d1c969" />
